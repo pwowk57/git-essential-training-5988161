@@ -1,3 +1,4 @@
-This is an update from the remote repo.
-blah blah
+This is the first file in the production version of Git
+This has been pulled from production and is...
+Version 5 17.10.26
 
